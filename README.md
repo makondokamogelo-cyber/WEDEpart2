@@ -1,4 +1,4 @@
-## Wed development part 2
+## Web development part 2
 ## Kamogelo Makondo ST10509047
 ## Project overview goals
 [Clawed by Kamo] 
